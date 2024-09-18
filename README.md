@@ -1,16 +1,17 @@
 # Text Translator Extension
 
-A Chrome extension for translating selected text on web pages.
+Uma extensão para o Chrome que traduz textos selecionados em páginas da web.
 
-## Installation
+## Instalação
 
-1. Clone this repository.
-2. Go to `chrome://extensions/` in your Chrome browser.
-3. Enable "Developer mode".
-4. Click "Load unpacked" and select the extension directory.
+1. Clone este repositório.
+2. Acesse `chrome://extensions/` no seu navegador Chrome.
+3. Ative o "Modo desenvolvedor".
+4. Clique em "Carregar sem compactação" e selecione o diretório da extensão.
 
-## Usage
+## Uso
 
-- Select text on a web page.
-- Click on the extension icon to translate the text.
-- The translation will appear in the popup.
+- Selecione um texto em uma página da web.
+- Clique no ícone da extensão para traduzir o texto.
+- A tradução aparecerá no popup.
+
